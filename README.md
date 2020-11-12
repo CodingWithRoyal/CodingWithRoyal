@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-<!--
+
 **IdleJatt/IdleJatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -29,4 +29,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter - @idle_jatt](https://twitter.com/idle_jatt)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm single
--->
