@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm single
 
 
-![Royal's github stats](https://github-readme-stats.vercel.app/api?username=IdleJatt&count_private=true)
+![Royal's github stats](https://github-readme-stats.vercel.app/api?username=IdleJatt&count_private=true&show_icons=true)
