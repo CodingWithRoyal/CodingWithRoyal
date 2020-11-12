@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter - @idle_jatt](https://twitter.com/idle_jatt)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm single
+
+
+![Royal's github stats](https://github-readme-stats.vercel.app/api?username=IdleJatt&count_private=true)
