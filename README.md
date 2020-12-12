@@ -1,26 +1,37 @@
 ### Hi there 👋
+<!-- Links -->
+[twitter]: https://twitter.com/Son_Of_Panjab
+[instagram]: https://instagram.com/Idle_Jatt
+[linkedin]: https://linkedin.com/in/royalrandhawa
+[facebook]: https://facebook.com/mIdleJatt
+[github]: https://github.com/IdleJatt
 
-## I'm [Harpreet Singh!](#) aka Royal
+## I'm [Harpreet Singh](#) aka Royal
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IdleJatt&label=Views&color=brightgreen&style=flat-square" alt="idlejatt" /> </p>
 
-<a href="https://twitter.com/idle_jatt">
-  <img align="left" alt="Royal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/royalrandhawa/">
-  <img align="left" alt="Royal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/IdleJatt">
-  <img align="left" alt="Royal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+[![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=00acee&labelColor=333)][twitter]
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=333)][linkedin]
+[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&message=Instagram&label=&color=E1306C&labelColor=333)][instagram]
+[![Facebook](https://img.shields.io/static/v1?style=for-the-badge&logo=facebook&message=Facebook&label=&color=1873EB&labelColor=333)][facebook]
+<a href="mailto:iamroyalrandhawa@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=Gmail&label=&color=EA4335&labelColor=333" /></a>
 
 <br/>
-<br/>
+
+### Languages:
+![Swift](https://img.shields.io/static/v1?style=for-the-badge&logo=swift&message=Swift&label=&color=FA7343&labelColor=333)
+![C#](https://img.shields.io/static/v1?style=for-the-badge&logo=c-sharp&message=C%20Sharp&label=&color=fff&labelColor=333)
+![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&logo=kotlin&message=Kotlin&label=&color=3F82DB&labelColor=333)
+![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=E51F24&labelColor=333)
+![Flutter](https://img.shields.io/static/v1?style=for-the-badge&logo=flutter&message=Flutter&label=&color=01579B&labelColor=333)
+![Dart](https://img.shields.io/static/v1?style=for-the-badge&logo=dart&message=Dart&label=&color=2AB5F6&labelColor=333)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=python&message=Python&label=&color=3671A3&labelColor=333)
+![Php](https://img.shields.io/static/v1?style=for-the-badge&logo=php&message=Php&label=&color=777BB4&labelColor=333)
 
 
 <!-- **IdleJatt/IdleJatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+## About Me
 
 - 🔭 I’m currently working on Myself
 - 🌱 I’m always learning
