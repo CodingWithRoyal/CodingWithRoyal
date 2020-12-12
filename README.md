@@ -16,8 +16,6 @@
 [![Facebook](https://img.shields.io/static/v1?style=for-the-badge&logo=facebook&message=Facebook&label=&color=1873EB&labelColor=333)][facebook]
 <a href="mailto:iamroyalrandhawa@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=Gmail&label=&color=EA4335&labelColor=333" /></a>
 
-<br/>
-
 ### Languages:
 ![Swift](https://img.shields.io/static/v1?style=for-the-badge&logo=swift&message=Swift&label=&color=FA7343&labelColor=333)
 ![C#](https://img.shields.io/static/v1?style=for-the-badge&logo=c-sharp&message=C%20Sharp&label=&color=fff&labelColor=333)
