@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm single
 
 ![Royal's github stats](https://github-readme-stats.vercel.app/api?username=IdleJatt&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdleJatt&langs_count=8)
