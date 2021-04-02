@@ -34,7 +34,7 @@
 
 ### Platforms:
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&logo=windows&message=Windows&label=&color=FFF&labelColor=333)
-![Linux](https://img.shields.io/static/v1?style=for-the-badge&logo=android&message=Linux&label=&color=F4AF00&labelColor=333)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&logo=linux&message=Linux&label=&color=F4AF00&labelColor=333)
 ![macOS](https://img.shields.io/static/v1?style=for-the-badge&logo=macos&message=MacOS&label=&color=FFF&labelColor=333)
 
 
