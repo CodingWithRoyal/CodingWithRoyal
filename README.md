@@ -4,11 +4,11 @@
 [instagram]: https://instagram.com/Idle_Jatt
 [linkedin]: https://linkedin.com/in/royalrandhawa
 [facebook]: https://facebook.com/mIdleJatt
-[github]: https://github.com/IdleJatt
+[github]: https://github.com/CodingWithRoyal
 
 ## I'm [Harpreet Singh](#) aka Royal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IdleJatt&label=Views&color=brightgreen&style=flat-square" alt="idlejatt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodingWithRoyal&label=Views&color=brightgreen&style=flat-square" alt="idlejatt" /> </p>
 
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=00acee&labelColor=333)][twitter]
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=333)][linkedin]
@@ -27,7 +27,7 @@
 ![Php](https://img.shields.io/static/v1?style=for-the-badge&logo=php&message=Php&label=&color=777BB4&labelColor=333)
 
 
-<!-- **IdleJatt/IdleJatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **CodingWithRoyal/CodingWithRoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## About Me
 
@@ -39,6 +39,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm single
 
-![Royal's github stats](https://github-readme-stats.vercel.app/api?username=IdleJatt&count_private=true&show_icons=true&theme=radical)
+![Royal's github stats](https://github-readme-stats.vercel.app/api?username=CodingWithRoyal&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdleJatt&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithRoyal&langs_count=8&theme=radical)
