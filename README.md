@@ -11,7 +11,7 @@
 <!-- [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=333)][linkedin] -->
 [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&message=Instagram&label=&color=E1306C&labelColor=333)][instagram]
 <!-- [![Facebook](https://img.shields.io/static/v1?style=for-the-badge&logo=facebook&message=Facebook&label=&color=1873EB&labelColor=333)][facebook] -->
-<a href="mailto:iamroyalrandhawa@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=Gmail&label=&color=EA4335&labelColor=333" /></a>
+<!-- <a href="mailto:iamroyalrandhawa@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=Gmail&label=&color=EA4335&labelColor=333" /></a> -->
 
 ### Languages:
 ![Swift](https://img.shields.io/static/v1?style=for-the-badge&logo=swift&message=Swift&label=&color=FA7343&labelColor=333)
