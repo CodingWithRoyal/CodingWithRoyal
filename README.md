@@ -1,9 +1,6 @@
 ### Hi there 👋
 <!-- Links -->
-[twitter]: https://twitter.com/Son_Of_Panjab
 [instagram]: https://instagram.com/Idle_Jatt
-[linkedin]: https://linkedin.com/in/royalrandhawa
-[facebook]: https://facebook.com/mIdleJatt
 [github]: https://github.com/CodingWithRoyal
 
 ## I'm [Harpreet Singh](#) aka Royal
