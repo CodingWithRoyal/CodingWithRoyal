@@ -7,10 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodingWithRoyal&label=Views&color=brightgreen&style=flat-square" alt="idlejatt" /> </p>
 
-/*[![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=00acee&labelColor=333)][twitter]*/
-/*[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=333)][linkedin]*/
+<!-- [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=00acee&labelColor=333)][twitter] -->
+<!-- [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=333)][linkedin] -->
 [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&message=Instagram&label=&color=E1306C&labelColor=333)][instagram]
-/*[![Facebook](https://img.shields.io/static/v1?style=for-the-badge&logo=facebook&message=Facebook&label=&color=1873EB&labelColor=333)][facebook]*/
+<!-- [![Facebook](https://img.shields.io/static/v1?style=for-the-badge&logo=facebook&message=Facebook&label=&color=1873EB&labelColor=333)][facebook] -->
 <a href="mailto:iamroyalrandhawa@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=Gmail&label=&color=EA4335&labelColor=333" /></a>
 
 ### Languages:
