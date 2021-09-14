@@ -43,7 +43,7 @@
 - 🌱 I’m always learning
 - 👯 I’m looking to collaborate on making a new business
 - 💬 Ask me about any issue, I love to solve coding problem
-- 📫 How to reach me: [Twitter - @idle_jatt](https://twitter.com/idle_jatt)
+- 📫 How to reach me: [IG - @idle_jatt](https://instagram.com/idle_jatt)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm single
 
