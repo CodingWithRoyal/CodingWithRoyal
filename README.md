@@ -25,7 +25,7 @@
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=python&message=Python&label=&color=3671A3&labelColor=333)
 ![Php](https://img.shields.io/static/v1?style=for-the-badge&logo=php&message=Php&label=&color=777BB4&labelColor=333) -->
 
-### Tools:
+<!-- ### Tools:
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=Visual%20Studio%20Code&label=&color=23AAF2&labelColor=333)
 ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio&message=Visual%20Studio&label=&color=BA87F3&labelColor=333)
 ![UE](https://img.shields.io/static/v1?style=for-the-badge&logo=unrealengine&message=UnrealEngine&label=&color=333&labelColor=333)
@@ -35,7 +35,7 @@
 ### Platforms:
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&logo=windows&message=Windows&label=&color=FFF&labelColor=333)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&logo=linux&message=Linux&label=&color=F4AF00&labelColor=333)
-![macOS](https://img.shields.io/static/v1?style=for-the-badge&logo=macos&message=MacOS&label=&color=FFF&labelColor=333)
+![macOS](https://img.shields.io/static/v1?style=for-the-badge&logo=macos&message=MacOS&label=&color=FFF&labelColor=333) -->
 
 
 <!-- **CodingWithRoyal/CodingWithRoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
