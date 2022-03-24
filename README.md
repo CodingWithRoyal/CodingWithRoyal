@@ -1,15 +1,18 @@
 ### Hi there 👋
 <!-- Links -->
-[instagram]: https://instagram.com/Idle_Jatt
 [github]: https://github.com/CodingWithRoyal
 [twitter]: https://twitter.com/CodingWithRoyal
+[site]: https://royal.codes
 
-## I'm [Harpreet Singh](#) aka Royal
-#### { Programming is not about learning syntax, its about solving problems }
+## My name is Royal
+
+![](img1.gif)
+
+{ Programming is not about learning syntax, its about solving problems }
+------------------------------------------------------------------------
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodingWithRoyal&label=Views&color=brightgreen&style=flat-square" alt="idlejatt" /> </p> -->
 
-[![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=how%20to%20reach%20me&label=&color=00acee&labelColor=333)][twitter]
 <!-- [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=333)][linkedin] -->
 <!-- [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&message=Instagram&label=&color=E1306C&labelColor=333)][instagram] -->
 <!-- [![Facebook](https://img.shields.io/static/v1?style=for-the-badge&logo=facebook&message=Facebook&label=&color=1873EB&labelColor=333)][facebook] -->
@@ -40,15 +43,78 @@
 
 <!-- **CodingWithRoyal/CodingWithRoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<a href="https://www.twitte.com/CodingWithRoyal" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/CodingWithRoyal?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+/></a><a href="https://www.github.com/CodingWithRoyal" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/CodingWithRoyal?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+
 ## About Me
 
 - 🔭 I’m currently working on myself
-- 🌱 I’m learning Low-Level programming atm
+- 🌱 I’m learning Web3 [@LearnWeb3DAO](https://twitter.com/LearnWeb3DAO)
 - 👯 I’m looking to collaborate on making a new business
 - 💬 Ask me about any issue, I love to solve problem
-- 📫 How to reach me: [Twitter - @CodingWithRoyal][twitter]
+- 📫 How to reach me: [@CodingWithRoyal][twitter]
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm single
 
-| ![Royal's github stats](https://github-readme-stats.vercel.app/api?username=CodingWithRoyal&count_private=true&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithRoyal&langs_count=8&theme=radical) |
-| --- | --- |
+### Skills
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" />
+  </a>
+  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" />
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36" height="36" alt="Php" />
+  </a>
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React.JS" />
+  </a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.JS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="Typescript" />
+  </a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind CSS" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GraphQL" />
+  </a>
+  <a href="https://mongodb.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="36" height="36" alt="MongoDB" />
+  </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" width="36" height="36" alt="Redis" />
+  </a>
+  <a href="https://postgresql .org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="36" height="36" alt="Postgresql" />
+  </a>
+  <a href="https://mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="36" height="36" alt="MySQL" />
+  </a>
+</p>
+
+| <a href="https://github.com/CodingWithRoyal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithRoyal&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
+|
+<a href="http://www.github.com/CodingWithRoyal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingWithRoyal&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+|
