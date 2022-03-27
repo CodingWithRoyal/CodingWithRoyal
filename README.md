@@ -44,7 +44,7 @@
 <!-- **CodingWithRoyal/CodingWithRoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <p align="center">
-  <a href="https://www.twitte.com/CodingWithRoyal" target="_blank" rel="noreferrer"><img
+  <a href="https://www.twitter.com/CodingWithRoyal" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/twitter/follow/CodingWithRoyal?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
   /></a>
   <a href="https://www.github.com/CodingWithRoyal" target="_blank" rel="noreferrer"><img
