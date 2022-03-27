@@ -43,10 +43,13 @@
 
 <!-- **CodingWithRoyal/CodingWithRoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<a href="https://www.twitte.com/CodingWithRoyal" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/CodingWithRoyal?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a><a href="https://www.github.com/CodingWithRoyal" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/CodingWithRoyal?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+<p align="center">
+  <a href="https://www.twitte.com/CodingWithRoyal" target="_blank" rel="noreferrer"><img
+  src="https://img.shields.io/twitter/follow/CodingWithRoyal?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+  /></a>
+  <a href="https://www.github.com/CodingWithRoyal" target="_blank" rel="noreferrer"><img
+  src="https://img.shields.io/github/followers/CodingWithRoyal?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+</p>
 
 ## About Me
 
@@ -114,7 +117,10 @@ src="https://img.shields.io/github/followers/CodingWithRoyal?logo=github&style=f
   </a>
 </p>
 
-| <a href="https://github.com/CodingWithRoyal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithRoyal&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
-|
-<a href="http://www.github.com/CodingWithRoyal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingWithRoyal&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-|
+<p align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=CodingWithRoyal&show_icons=true&locale=en&layout=compact&theme=elegant&line_height=0" />
+</p>
+
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=CodingWithRoyal&theme=elegant">
+</p>
