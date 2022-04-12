@@ -4,7 +4,7 @@
 [twitter]: https://twitter.com/CodingWithRoyal
 [site]: https://royal.codes
 
-## My name is Royal
+## I am Royal
 
 ![](img1.gif)
 
