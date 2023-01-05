@@ -59,7 +59,6 @@
 - 💬 Ask me about any issue, I love to solve problem
 - 📫 How to reach me: [@CodingWithRoyal][twitter]
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm single
 
 ### Skills
 
