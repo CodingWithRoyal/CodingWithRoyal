@@ -6,10 +6,13 @@
 
 ## I am Royal
 
+<!--
 ![](img1.gif)
 
 { Programming is not about learning syntax, its about solving problems }
 ------------------------------------------------------------------------
+
+-->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodingWithRoyal&label=Views&color=brightgreen&style=flat-square" alt="idlejatt" /> </p> -->
 
@@ -43,6 +46,7 @@
 
 <!-- **CodingWithRoyal/CodingWithRoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<!--
 <p align="center">
   <a href="https://www.twitter.com/CodingWithRoyal" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/twitter/follow/CodingWithRoyal?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
@@ -123,3 +127,5 @@
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=CodingWithRoyal&theme=elegant">
 </p>
+
+-->
